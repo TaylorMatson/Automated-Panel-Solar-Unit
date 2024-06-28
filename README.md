@@ -1,4 +1,4 @@
-Automated Solar Panel Unit (A.P.S.U.)
+Automated Panel Solar Unit (A.P.S.U.)
 
 This project is my capstone project of 2021 for my studies at Austin Peay State University.
 
